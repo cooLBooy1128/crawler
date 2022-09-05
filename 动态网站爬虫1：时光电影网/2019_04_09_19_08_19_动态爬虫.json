@@ -1,0 +1,196 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 10038,
+            "movieTitle": "黑衣人",
+            "RatingFinal": 7.8,
+            "Usercount": 6248,
+            "AttitudeCount": 382,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 238552,
+            "movieTitle": "红犬：真爱启程",
+            "RatingFinal": -1,
+            "Usercount": 2,
+            "AttitudeCount": 4,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 174956,
+            "movieTitle": "冰雪奇缘",
+            "RatingFinal": 8.4,
+            "Usercount": 18135,
+            "AttitudeCount": 2098,
+            "TotalBoxOffice(Unit:万)": 30000.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 228592,
+            "movieTitle": "源·彩虹",
+            "RatingFinal": -1,
+            "Usercount": 5,
+            "AttitudeCount": 60,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 15393,
+            "movieTitle": "鲨鱼故事",
+            "RatingFinal": 7.2,
+            "Usercount": 2758,
+            "AttitudeCount": 371,
+            "TotalBoxOffice(Unit:万)": 1600.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 51236,
+            "movieTitle": "驯龙高手",
+            "RatingFinal": 8.5,
+            "Usercount": 20083,
+            "AttitudeCount": 5836,
+            "TotalBoxOffice(Unit:万)": 9200.0,
+            "EndDate": "2016-10-28 16:00"
+        },
+        {
+            "movieId": 200560,
+            "movieTitle": "魔法黑森林",
+            "RatingFinal": 6.6,
+            "Usercount": 974,
+            "AttitudeCount": 513,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 261070,
+            "movieTitle": "哆啦A梦：月球探险记",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 10,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 54979,
+            "movieTitle": "蜜蜂总动员",
+            "RatingFinal": 7.2,
+            "Usercount": 761,
+            "AttitudeCount": 138,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 247270,
+            "movieTitle": "雪宝的冰雪大冒险",
+            "RatingFinal": 7.2,
+            "Usercount": 42,
+            "AttitudeCount": 31,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [
+        {
+            "movieId": 255483,
+            "movieTitle": "精灵怪物：疯狂之旅",
+            "RatingFinal": -1,
+            "Usercount": 14,
+            "AttitudeCount": 204,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null,
+            "ShowDays": null
+        },
+        {
+            "movieId": 212043,
+            "movieTitle": "麦兜我和我妈妈",
+            "RatingFinal": 8,
+            "Usercount": 1122,
+            "AttitudeCount": 221,
+            "TotalBoxOffice(Unit:万)": 4334.0,
+            "EndDate": "2019-04-09 19:05",
+            "ShowDays": 5
+        },
+        {
+            "movieId": 190574,
+            "movieTitle": "驯龙高手3",
+            "RatingFinal": 7.5,
+            "Usercount": 1070,
+            "AttitudeCount": 2318,
+            "TotalBoxOffice(Unit:万)": 36600.0,
+            "EndDate": "2019-04-09 19:05",
+            "ShowDays": 40
+        },
+        {
+            "movieId": 259344,
+            "movieTitle": "青蛙王子历险记",
+            "RatingFinal": -1,
+            "Usercount": 2,
+            "AttitudeCount": 14,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null,
+            "ShowDays": null
+        }
+    ],
+    "即将上映": [
+        {
+            "movieId": 229710,
+            "movieTitle": "神奇乐园历险记",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 408,
+            "Ranking": 20,
+            "RankChanging": -1
+        },
+        {
+            "movieId": 247086,
+            "movieTitle": "虫林大作战",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 33,
+            "Ranking": 28,
+            "RankChanging": 1
+        },
+        {
+            "movieId": 236310,
+            "movieTitle": "境·界",
+            "RatingFinal": 6,
+            "Usercount": 98,
+            "AttitudeCount": 126,
+            "Ranking": 17,
+            "RankChanging": 0
+        }
+    ],
+    "上映未收录": [],
+    "暂未上映": [
+        {
+            "movieId": 222095,
+            "movieTitle": "冰雪奇缘2",
+            "RatingFinal": -1,
+            "Usercount": 45,
+            "AttitudeCount": 241,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 251147,
+            "movieTitle": "飞鸽特工队",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 48,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 241773,
+            "movieTitle": "阿拉丁",
+            "RatingFinal": -1,
+            "Usercount": 6,
+            "AttitudeCount": 1059,
+            "Ranking": 23,
+            "RankChanging": -2
+        }
+    ],
+    "未知": []
+}

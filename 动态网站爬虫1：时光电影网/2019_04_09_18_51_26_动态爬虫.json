@@ -1,0 +1,197 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 259876,
+            "movieTitle": "过春天",
+            "RatingFinal": 8,
+            "Usercount": 238,
+            "AttitudeCount": 312,
+            "TotalBoxOffice(Unit:万)": 991.1,
+            "EndDate": "2019-04-09 18:50"
+        },
+        {
+            "movieId": 28995,
+            "movieTitle": "冰川时代：融冰之灾",
+            "RatingFinal": 7.7,
+            "Usercount": 9986,
+            "AttitudeCount": 885,
+            "TotalBoxOffice(Unit:万)": 4140.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 156682,
+            "movieTitle": "荒野猎人",
+            "RatingFinal": 8,
+            "Usercount": 6904,
+            "AttitudeCount": 6625,
+            "TotalBoxOffice(Unit:万)": 37700.0,
+            "EndDate": "2017-03-17 16:20"
+        },
+        {
+            "movieId": 98283,
+            "movieTitle": "麦兜响当当",
+            "RatingFinal": 7.2,
+            "Usercount": 10346,
+            "AttitudeCount": 3524,
+            "TotalBoxOffice(Unit:万)": 7600.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 220274,
+            "movieTitle": "美国行动",
+            "RatingFinal": 7.5,
+            "Usercount": 660,
+            "AttitudeCount": 194,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 220740,
+            "movieTitle": "九条命",
+            "RatingFinal": 6.9,
+            "Usercount": 7752,
+            "AttitudeCount": 1943,
+            "TotalBoxOffice(Unit:万)": 11200.000000000002,
+            "EndDate": "2018-12-14 23:55"
+        },
+        {
+            "movieId": 215177,
+            "movieTitle": "圆梦巨人",
+            "RatingFinal": 7,
+            "Usercount": 2117,
+            "AttitudeCount": 2477,
+            "TotalBoxOffice(Unit:万)": 14300.0,
+            "EndDate": "2017-10-13 05:15"
+        },
+        {
+            "movieId": 12369,
+            "movieTitle": "亚当斯一家",
+            "RatingFinal": 8,
+            "Usercount": 733,
+            "AttitudeCount": 519,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 28019,
+            "movieTitle": "女巫",
+            "RatingFinal": 8,
+            "Usercount": 58,
+            "AttitudeCount": 229,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 229919,
+            "movieTitle": "希斯特斯兄弟",
+            "RatingFinal": 7.4,
+            "Usercount": 117,
+            "AttitudeCount": 60,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 24138,
+            "movieTitle": "疯狂的麦克斯：狂暴之路",
+            "RatingFinal": 8.1,
+            "Usercount": 5776,
+            "AttitudeCount": 2085,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 226992,
+            "movieTitle": "碟中谍6：全面瓦解",
+            "RatingFinal": 7.8,
+            "Usercount": 4606,
+            "AttitudeCount": 7251,
+            "TotalBoxOffice(Unit:万)": 124300.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 238552,
+            "movieTitle": "红犬：真爱启程",
+            "RatingFinal": -1,
+            "Usercount": 2,
+            "AttitudeCount": 4,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [
+        {
+            "movieId": 212043,
+            "movieTitle": "麦兜我和我妈妈",
+            "RatingFinal": 8,
+            "Usercount": 1122,
+            "AttitudeCount": 221,
+            "TotalBoxOffice(Unit:万)": 4334.0,
+            "EndDate": "2019-04-09 18:50",
+            "ShowDays": 5
+        },
+        {
+            "movieId": 255483,
+            "movieTitle": "精灵怪物：疯狂之旅",
+            "RatingFinal": -1,
+            "Usercount": 14,
+            "AttitudeCount": 204,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null,
+            "ShowDays": null
+        }
+    ],
+    "即将上映": [
+        {
+            "movieId": 247086,
+            "movieTitle": "虫林大作战",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 32,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null,
+            "ShowDays": null
+        },
+        {
+            "movieId": 260287,
+            "movieTitle": "远去的牧歌",
+            "RatingFinal": -1,
+            "Usercount": 7,
+            "AttitudeCount": 22,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null,
+            "ShowDays": null
+        },
+        {
+            "movieId": 229710,
+            "movieTitle": "神奇乐园历险记",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 406,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null,
+            "ShowDays": null
+        }
+    ],
+    "上映未收录": [],
+    "暂未上映": [
+        {
+            "movieId": 251147,
+            "movieTitle": "飞鸽特工队",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 48,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 236249,
+            "movieTitle": "摸金校尉之九幽将军",
+            "RatingFinal": -1,
+            "Usercount": 8,
+            "AttitudeCount": 294,
+            "Ranking": 53,
+            "RankChanging": -4
+        }
+    ],
+    "未知": []
+}

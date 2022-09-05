@@ -1,0 +1,194 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 248090,
+            "movieTitle": "维京：王者之战",
+            "RatingFinal": 7.4,
+            "Usercount": 261,
+            "AttitudeCount": 1469,
+            "TotalBoxOffice(Unit:万)": 1411.4,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 237246,
+            "movieTitle": "掠食城市",
+            "RatingFinal": 6.8,
+            "Usercount": 726,
+            "AttitudeCount": 1367,
+            "TotalBoxOffice(Unit:万)": 5031.7,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 214787,
+            "movieTitle": "请叫我英雄",
+            "RatingFinal": 7.1,
+            "Usercount": 571,
+            "AttitudeCount": 89,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 227258,
+            "movieTitle": "一条狗的使命",
+            "RatingFinal": 7.7,
+            "Usercount": 2769,
+            "AttitudeCount": 3780,
+            "TotalBoxOffice(Unit:万)": 60800.0,
+            "EndDate": "2019-03-02 15:51"
+        },
+        {
+            "movieId": 13178,
+            "movieTitle": "地狱男爵",
+            "RatingFinal": 7.1,
+            "Usercount": 4934,
+            "AttitudeCount": 535,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 17493,
+            "movieTitle": "哥斯拉：最终战役",
+            "RatingFinal": 6.7,
+            "Usercount": 84,
+            "AttitudeCount": 55,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 15646,
+            "movieTitle": "哥斯拉：大怪兽总攻击",
+            "RatingFinal": 7.7,
+            "Usercount": 30,
+            "AttitudeCount": 11,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [
+        {
+            "movieId": 87876,
+            "movieTitle": "雷霆沙赞！",
+            "RatingFinal": 6.9,
+            "Usercount": 1204,
+            "AttitudeCount": 2317,
+            "TotalBoxOffice(Unit:万)": 22300.0,
+            "EndDate": "2019-04-09 19:15",
+            "ShowDays": 5
+        },
+        {
+            "movieId": 190574,
+            "movieTitle": "驯龙高手3",
+            "RatingFinal": 7.5,
+            "Usercount": 1070,
+            "AttitudeCount": 2318,
+            "TotalBoxOffice(Unit:万)": 36600.0,
+            "EndDate": "2019-04-09 19:15",
+            "ShowDays": 40
+        },
+        {
+            "movieId": 132277,
+            "movieTitle": "海王",
+            "RatingFinal": 8,
+            "Usercount": 6073,
+            "AttitudeCount": 4746,
+            "TotalBoxOffice(Unit:万)": 200799.99999999997,
+            "EndDate": "2019-04-09 15:54",
+            "ShowDays": 0
+        }
+    ],
+    "即将上映": [
+        {
+            "movieId": 236310,
+            "movieTitle": "境·界",
+            "RatingFinal": 6,
+            "Usercount": 98,
+            "AttitudeCount": 126,
+            "Ranking": 17,
+            "RankChanging": 0
+        },
+        {
+            "movieId": 213190,
+            "movieTitle": "哥斯拉2：怪兽之王",
+            "RatingFinal": -1,
+            "Usercount": 35,
+            "AttitudeCount": 2046,
+            "Ranking": 9,
+            "RankChanging": -1
+        }
+    ],
+    "上映未收录": [
+        {
+            "movieId": 262580,
+            "movieTitle": "冰雪女王4：魔镜世界",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 5
+        }
+    ],
+    "暂未上映": [
+        {
+            "movieId": 231946,
+            "movieTitle": "刺猬索尼克",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 17,
+            "Ranking": 40,
+            "RankChanging": 6
+        },
+        {
+            "movieId": 246784,
+            "movieTitle": "愤怒的小鸟2",
+            "RatingFinal": -1,
+            "Usercount": 4,
+            "AttitudeCount": 36,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 255935,
+            "movieTitle": "王者天下",
+            "RatingFinal": -1,
+            "Usercount": 2,
+            "AttitudeCount": 38,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 222095,
+            "movieTitle": "冰雪奇缘2",
+            "RatingFinal": -1,
+            "Usercount": 45,
+            "AttitudeCount": 241,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 250659,
+            "movieTitle": "雪人奇缘",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 9,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 128969,
+            "movieTitle": "阿凡达2",
+            "RatingFinal": -1,
+            "Usercount": 477,
+            "AttitudeCount": 1633,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 247677,
+            "movieTitle": "地狱男爵：血皇后崛起",
+            "RatingFinal": -1,
+            "Usercount": 8,
+            "AttitudeCount": 1541,
+            "Ranking": 14,
+            "RankChanging": 2
+        }
+    ],
+    "未知": []
+}

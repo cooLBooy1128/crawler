@@ -1,0 +1,191 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 228592,
+            "movieTitle": "源·彩虹",
+            "RatingFinal": -1,
+            "Usercount": 5,
+            "AttitudeCount": 60,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 144750,
+            "movieTitle": "狄仁杰之神都龙王",
+            "RatingFinal": 7.2,
+            "Usercount": 13296,
+            "AttitudeCount": 1574,
+            "TotalBoxOffice(Unit:万)": 60199.99999999999,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 244278,
+            "movieTitle": "王者少年",
+            "RatingFinal": -1,
+            "Usercount": 6,
+            "AttitudeCount": 38,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 17493,
+            "movieTitle": "哥斯拉：最终战役",
+            "RatingFinal": 6.7,
+            "Usercount": 84,
+            "AttitudeCount": 55,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 232758,
+            "movieTitle": "狄仁杰之四大天王",
+            "RatingFinal": 6.9,
+            "Usercount": 2819,
+            "AttitudeCount": 4363,
+            "TotalBoxOffice(Unit:万)": 60599.99999999999,
+            "EndDate": "2019-04-09 19:10"
+        },
+        {
+            "movieId": 236122,
+            "movieTitle": "龙之战",
+            "RatingFinal": 5.6,
+            "Usercount": 195,
+            "AttitudeCount": 206,
+            "TotalBoxOffice(Unit:万)": 6535.1,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 15646,
+            "movieTitle": "哥斯拉：大怪兽总攻击",
+            "RatingFinal": 7.7,
+            "Usercount": 30,
+            "AttitudeCount": 11,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 247293,
+            "movieTitle": "神探蒲松龄",
+            "RatingFinal": 5.5,
+            "Usercount": 648,
+            "AttitudeCount": 959,
+            "TotalBoxOffice(Unit:万)": 15200.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 13176,
+            "movieTitle": "龙之战",
+            "RatingFinal": 4.7,
+            "Usercount": 3838,
+            "AttitudeCount": 1778,
+            "TotalBoxOffice(Unit:万)": 3100.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 230741,
+            "movieTitle": "敦刻尔克",
+            "RatingFinal": 8.1,
+            "Usercount": 6870,
+            "AttitudeCount": 11187,
+            "TotalBoxOffice(Unit:万)": 34000.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 208325,
+            "movieTitle": "西游伏妖篇",
+            "RatingFinal": 6.5,
+            "Usercount": 20081,
+            "AttitudeCount": 2894,
+            "TotalBoxOffice(Unit:万)": 165700.0,
+            "EndDate": "2019-01-27 09:54"
+        },
+        {
+            "movieId": 93125,
+            "movieTitle": "大兵小将",
+            "RatingFinal": 7,
+            "Usercount": 17022,
+            "AttitudeCount": 3721,
+            "TotalBoxOffice(Unit:万)": 16200.000000000002,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 142267,
+            "movieTitle": "龙之寿",
+            "RatingFinal": 4.4,
+            "Usercount": 71,
+            "AttitudeCount": 21,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 14599,
+            "movieTitle": "龙之心",
+            "RatingFinal": 7.3,
+            "Usercount": 150,
+            "AttitudeCount": 48,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [],
+    "即将上映": [
+        {
+            "movieId": 236310,
+            "movieTitle": "境·界",
+            "RatingFinal": 6,
+            "Usercount": 98,
+            "AttitudeCount": 126,
+            "Ranking": 17,
+            "RankChanging": 0
+        },
+        {
+            "movieId": 213190,
+            "movieTitle": "哥斯拉2：怪兽之王",
+            "RatingFinal": -1,
+            "Usercount": 35,
+            "AttitudeCount": 2046,
+            "Ranking": 9,
+            "RankChanging": -1
+        },
+        {
+            "movieId": 229710,
+            "movieTitle": "神奇乐园历险记",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 408,
+            "Ranking": 20,
+            "RankChanging": -1
+        }
+    ],
+    "上映未收录": [],
+    "暂未上映": [
+        {
+            "movieId": 255935,
+            "movieTitle": "王者天下",
+            "RatingFinal": -1,
+            "Usercount": 2,
+            "AttitudeCount": 38,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 236249,
+            "movieTitle": "摸金校尉之九幽将军",
+            "RatingFinal": -1,
+            "Usercount": 8,
+            "AttitudeCount": 294,
+            "Ranking": 53,
+            "RankChanging": -4
+        },
+        {
+            "movieId": 235701,
+            "movieTitle": "大侦探皮卡丘",
+            "RatingFinal": -1,
+            "Usercount": 16,
+            "AttitudeCount": 1275,
+            "Ranking": 6,
+            "RankChanging": 1
+        }
+    ],
+    "未知": []
+}

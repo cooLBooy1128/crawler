@@ -1,0 +1,190 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 87876,
+            "movieTitle": "雷霆沙赞！",
+            "RatingFinal": 6.9,
+            "Usercount": 1203,
+            "AttitudeCount": 2316,
+            "TotalBoxOffice(Unit:万)": 22200.000000000004,
+            "EndDate": "2019-04-09 18:45"
+        },
+        {
+            "movieId": 45997,
+            "movieTitle": "阿凡达",
+            "RatingFinal": 8.8,
+            "Usercount": 68063,
+            "AttitudeCount": 14068,
+            "TotalBoxOffice(Unit:万)": 137900.0,
+            "EndDate": "2016-10-28 16:00"
+        },
+        {
+            "movieId": 216008,
+            "movieTitle": "银河护卫队2",
+            "RatingFinal": 7.8,
+            "Usercount": 6377,
+            "AttitudeCount": 2373,
+            "TotalBoxOffice(Unit:万)": 68600.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 228592,
+            "movieTitle": "源·彩虹",
+            "RatingFinal": -1,
+            "Usercount": 5,
+            "AttitudeCount": 60,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 175195,
+            "movieTitle": "银河护卫队",
+            "RatingFinal": 7.7,
+            "Usercount": 13905,
+            "AttitudeCount": 1620,
+            "TotalBoxOffice(Unit:万)": 60100.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 209123,
+            "movieTitle": "雷神3：诸神黄昏",
+            "RatingFinal": 7.8,
+            "Usercount": 5325,
+            "AttitudeCount": 10161,
+            "TotalBoxOffice(Unit:万)": 74300.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 244278,
+            "movieTitle": "王者少年",
+            "RatingFinal": -1,
+            "Usercount": 6,
+            "AttitudeCount": 38,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 209122,
+            "movieTitle": "美国队长3",
+            "RatingFinal": 7.8,
+            "Usercount": 12032,
+            "AttitudeCount": 12174,
+            "TotalBoxOffice(Unit:万)": 124600.00000000001,
+            "EndDate": "2018-05-10 23:55"
+        },
+        {
+            "movieId": 217497,
+            "movieTitle": "复仇者联盟3：无限战争",
+            "RatingFinal": 8.1,
+            "Usercount": 8265,
+            "AttitudeCount": 14691,
+            "TotalBoxOffice(Unit:万)": 239000.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 247270,
+            "movieTitle": "雪宝的冰雪大冒险",
+            "RatingFinal": 7.2,
+            "Usercount": 42,
+            "AttitudeCount": 31,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 39560,
+            "movieTitle": "美国队长",
+            "RatingFinal": 6.9,
+            "Usercount": 85,
+            "AttitudeCount": 64,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 14774,
+            "movieTitle": "异形2",
+            "RatingFinal": 8.1,
+            "Usercount": 3834,
+            "AttitudeCount": 365,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 131518,
+            "movieTitle": "黑衣人",
+            "RatingFinal": -1,
+            "Usercount": 6,
+            "AttitudeCount": 1,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [],
+    "即将上映": [],
+    "上映未收录": [],
+    "暂未上映": [
+        {
+            "movieId": 128969,
+            "movieTitle": "阿凡达2",
+            "RatingFinal": -1,
+            "Usercount": 477,
+            "AttitudeCount": 1633,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 218090,
+            "movieTitle": "复仇者联盟4：终局之战",
+            "RatingFinal": -1,
+            "Usercount": 362,
+            "AttitudeCount": 9807,
+            "Ranking": 1,
+            "RankChanging": 0
+        },
+        {
+            "movieId": 231946,
+            "movieTitle": "刺猬索尼克",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 17,
+            "Ranking": 40,
+            "RankChanging": 6
+        },
+        {
+            "movieId": 222095,
+            "movieTitle": "冰雪奇缘2",
+            "RatingFinal": -1,
+            "Usercount": 45,
+            "AttitudeCount": 241,
+            "Ranking": null,
+            "RankChanging": null
+        },
+        {
+            "movieId": 227321,
+            "movieTitle": "黑衣人：全球追缉",
+            "RatingFinal": -1,
+            "Usercount": 15,
+            "AttitudeCount": 1688,
+            "Ranking": 29,
+            "RankChanging": -1
+        },
+        {
+            "movieId": 235701,
+            "movieTitle": "大侦探皮卡丘",
+            "RatingFinal": -1,
+            "Usercount": 16,
+            "AttitudeCount": 1275,
+            "Ranking": 6,
+            "RankChanging": 1
+        },
+        {
+            "movieId": 247677,
+            "movieTitle": "地狱男爵：血皇后崛起",
+            "RatingFinal": -1,
+            "Usercount": 8,
+            "AttitudeCount": 1541,
+            "Ranking": 14,
+            "RankChanging": 2
+        }
+    ],
+    "未知": []
+}

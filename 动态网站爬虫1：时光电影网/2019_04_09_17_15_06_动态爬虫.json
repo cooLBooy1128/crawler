@@ -1,0 +1,186 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 262435,
+            "movieTitle": "水族魂1944",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 2,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 154373,
+            "movieTitle": "无问西东",
+            "RatingFinal": 7,
+            "Usercount": 4194,
+            "AttitudeCount": 5301,
+            "TotalBoxOffice(Unit:万)": 75400.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 254419,
+            "movieTitle": "印度合伙人",
+            "RatingFinal": 7.7,
+            "Usercount": 422,
+            "AttitudeCount": 174,
+            "TotalBoxOffice(Unit:万)": 6733.9,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 228933,
+            "movieTitle": "奔爱",
+            "RatingFinal": 5,
+            "Usercount": 905,
+            "AttitudeCount": 1779,
+            "TotalBoxOffice(Unit:万)": 4751.3,
+            "EndDate": "2018-04-11 23:55"
+        },
+        {
+            "movieId": 234084,
+            "movieTitle": "他和她的故事",
+            "RatingFinal": 8.7,
+            "Usercount": 15,
+            "AttitudeCount": 5,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 231942,
+            "movieTitle": "雪中灰",
+            "RatingFinal": -1,
+            "Usercount": 13,
+            "AttitudeCount": 3,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 12135,
+            "movieTitle": "卧虎藏龙",
+            "RatingFinal": 7.5,
+            "Usercount": 113525,
+            "AttitudeCount": 9354,
+            "TotalBoxOffice(Unit:万)": 1000.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 11852,
+            "movieTitle": "蜀山传",
+            "RatingFinal": 6.2,
+            "Usercount": 4209,
+            "AttitudeCount": 211,
+            "TotalBoxOffice(Unit:万)": 2000.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 104896,
+            "movieTitle": "一代宗师",
+            "RatingFinal": 7.8,
+            "Usercount": 18552,
+            "AttitudeCount": 13860,
+            "TotalBoxOffice(Unit:万)": 28800.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 208911,
+            "movieTitle": "罗曼蒂克消亡史",
+            "RatingFinal": 7.5,
+            "Usercount": 5695,
+            "AttitudeCount": 1536,
+            "TotalBoxOffice(Unit:万)": 12300.0,
+            "EndDate": "2018-10-17 23:55"
+        },
+        {
+            "movieId": 247629,
+            "movieTitle": "缘断仰光桥",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 0,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 232057,
+            "movieTitle": "科洛弗悖论",
+            "RatingFinal": 6.7,
+            "Usercount": 404,
+            "AttitudeCount": 185,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 258406,
+            "movieTitle": "动物奇缘",
+            "RatingFinal": 6.8,
+            "Usercount": 13,
+            "AttitudeCount": 2,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 254778,
+            "movieTitle": "斯塔比中士：一个美国英雄",
+            "RatingFinal": -1,
+            "Usercount": 2,
+            "AttitudeCount": 1,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 142177,
+            "movieTitle": "大轰炸",
+            "RatingFinal": 3.5,
+            "Usercount": 308,
+            "AttitudeCount": 1596,
+            "TotalBoxOffice(Unit:万)": 0.2,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 261898,
+            "movieTitle": "奇幻梦之旅",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 2,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 237601,
+            "movieTitle": "老人和枪",
+            "RatingFinal": 7.1,
+            "Usercount": 101,
+            "AttitudeCount": 42,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 259944,
+            "movieTitle": "世界奇妙物语 2018年春季特别篇",
+            "RatingFinal": -1,
+            "Usercount": 8,
+            "AttitudeCount": 0,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [],
+    "即将上映": [],
+    "上映未收录": [
+        {
+            "movieId": 237477,
+            "movieTitle": "触碰的双手",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 3
+        },
+        {
+            "movieId": 247343,
+            "movieTitle": "战火球星",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 0
+        }
+    ],
+    "暂未上映": [],
+    "未知": []
+}

@@ -1,0 +1,190 @@
+{
+    "上映后已下架": [
+        {
+            "movieId": 254419,
+            "movieTitle": "印度合伙人",
+            "RatingFinal": 7.7,
+            "Usercount": 422,
+            "AttitudeCount": 174,
+            "TotalBoxOffice(Unit:万)": 6733.9,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 154373,
+            "movieTitle": "无问西东",
+            "RatingFinal": 7,
+            "Usercount": 4194,
+            "AttitudeCount": 5301,
+            "TotalBoxOffice(Unit:万)": 75400.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 104896,
+            "movieTitle": "一代宗师",
+            "RatingFinal": 7.8,
+            "Usercount": 18552,
+            "AttitudeCount": 13860,
+            "TotalBoxOffice(Unit:万)": 28800.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 80797,
+            "movieTitle": "太平轮（上）",
+            "RatingFinal": 6.3,
+            "Usercount": 12845,
+            "AttitudeCount": 757,
+            "TotalBoxOffice(Unit:万)": 19700.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 262435,
+            "movieTitle": "水族魂1944",
+            "RatingFinal": 0,
+            "Usercount": 0,
+            "AttitudeCount": 2,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 161730,
+            "movieTitle": "真爱满屋2：十二男女对对碰",
+            "RatingFinal": 5.8,
+            "Usercount": 20,
+            "AttitudeCount": 13,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 24709,
+            "movieTitle": "赤壁（上）",
+            "RatingFinal": 6.5,
+            "Usercount": 23615,
+            "AttitudeCount": 4393,
+            "TotalBoxOffice(Unit:万)": 32200.000000000004,
+            "EndDate": "2016-10-28 16:00"
+        },
+        {
+            "movieId": 12469,
+            "movieTitle": "英雄",
+            "RatingFinal": 7.2,
+            "Usercount": 119907,
+            "AttitudeCount": 7322,
+            "TotalBoxOffice(Unit:万)": 25000.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 261807,
+            "movieTitle": "33号公路",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 4,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 147477,
+            "movieTitle": "谢谢你",
+            "RatingFinal": -1,
+            "Usercount": 13,
+            "AttitudeCount": 13,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 261530,
+            "movieTitle": "从零开始",
+            "RatingFinal": -1,
+            "Usercount": 3,
+            "AttitudeCount": 7,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 241022,
+            "movieTitle": "小阴谋大爱情",
+            "RatingFinal": -1,
+            "Usercount": 5,
+            "AttitudeCount": 8,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 38851,
+            "movieTitle": "香辣一家亲",
+            "RatingFinal": -1,
+            "Usercount": 16,
+            "AttitudeCount": 6,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        },
+        {
+            "movieId": 12135,
+            "movieTitle": "卧虎藏龙",
+            "RatingFinal": 7.5,
+            "Usercount": 113525,
+            "AttitudeCount": 9354,
+            "TotalBoxOffice(Unit:万)": 1000.0,
+            "EndDate": "2016-02-23 17:44"
+        },
+        {
+            "movieId": 255708,
+            "movieTitle": "大师兄",
+            "RatingFinal": 5.6,
+            "Usercount": 483,
+            "AttitudeCount": 526,
+            "TotalBoxOffice(Unit:万)": 14600.0,
+            "EndDate": "2019-04-09 15:54"
+        },
+        {
+            "movieId": 219610,
+            "movieTitle": "新年行动",
+            "RatingFinal": 7,
+            "Usercount": 1296,
+            "AttitudeCount": 1828,
+            "TotalBoxOffice(Unit:万)": 237.1,
+            "EndDate": "2016-11-03 19:15"
+        },
+        {
+            "movieId": 228933,
+            "movieTitle": "奔爱",
+            "RatingFinal": 5,
+            "Usercount": 905,
+            "AttitudeCount": 1779,
+            "TotalBoxOffice(Unit:万)": 4751.3,
+            "EndDate": "2018-04-11 23:55"
+        },
+        {
+            "movieId": 234084,
+            "movieTitle": "他和她的故事",
+            "RatingFinal": 8.7,
+            "Usercount": 15,
+            "AttitudeCount": 5,
+            "TotalBoxOffice(Unit:万)": null,
+            "EndDate": null
+        }
+    ],
+    "正在上映": [
+        {
+            "movieId": 234544,
+            "movieTitle": "地球最后的夜晚",
+            "RatingFinal": 7.2,
+            "Usercount": 1660,
+            "AttitudeCount": 1033,
+            "TotalBoxOffice(Unit:万)": 28200.0,
+            "EndDate": "2019-04-09 15:54",
+            "ShowDays": 0
+        }
+    ],
+    "即将上映": [],
+    "上映未收录": [
+        {
+            "movieId": 237477,
+            "movieTitle": "触碰的双手",
+            "RatingFinal": -1,
+            "Usercount": 1,
+            "AttitudeCount": 3
+        }
+    ],
+    "暂未上映": [],
+    "未知": []
+}
